@@ -27,5 +27,9 @@ I'm deeply passionate about the world of technology and development, striving to
 
 🔧 Tools: I'm experienced with Git for version control and team collaboration, as well as agile methodologies that facilitate efficient project delivery. I also use more agile package managers such as pnpm. 
 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
 **I'm always open to collaboration opportunities and mutual learning. Whether you have an exciting project in mind or just want to connect, feel free to get in touch!**
 
