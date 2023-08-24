@@ -16,8 +16,8 @@ I'm deeply passionate about the world of technology and development, striving to
 
 🚀 Technologies: I'm comfortable working with technologies like HTML, CSS, JavaScript, React, TypeScript, Node.js, and more. I'm always excited to explore new tools and trends in the development realm.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/React-0f2876?style=flat-square&logo=React&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+[![React](https://img.shields.io/badge/React-0f2876?style=flat-square&logo=React&logoColor=white)]
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)]
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)]
