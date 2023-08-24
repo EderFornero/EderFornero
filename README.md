@@ -14,7 +14,12 @@ I'm deeply passionate about the world of technology and development, striving to
 
 💼 FullStack Developer: I've worked on projects spanning from frontend development to backend implementation, allowing me to grasp the bigger picture and engineer robust, efficient solutions.
 
-🚀 Technologies: I'm comfortable working with technologies like HTML, CSS, JavaScript, React, Node.js, and more. I'm always excited to explore new tools and trends in the development realm.
+🚀 Technologies: I'm comfortable working with technologies like HTML, CSS, JavaScript, React, TypeScript, Node.js, and more. I'm always excited to explore new tools and trends in the development realm.
 
-🔧 Tools: I'm experienced with Git for version control and team collaboration, as well as agile methodologies that facilitate efficient project delivery.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/JavaScript-0f2876?style=flat-square&logo=React&logoColor=white)
+
+🔧 Tools: I'm experienced with Git for version control and team collaboration, as well as agile methodologies that facilitate efficient project delivery. I also use more agile package managers such as pnpm. 
+
+**I'm always open to collaboration opportunities and mutual learning. Whether you have an exciting project in mind or just want to connect, feel free to get in touch!**
 
