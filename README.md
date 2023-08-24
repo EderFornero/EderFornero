@@ -33,7 +33,7 @@ I'm deeply passionate about the world of technology and development, striving to
 
 **I'm always open to collaboration opportunities and mutual learning. Whether you have an exciting project in mind or just want to connect, feel free to get in touch!**
 
-📫 [ederfornero.ef@gmail.com]
+📫 [Email](ederfornero.ef@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/eder-fornero/)
 🌐 [Personal Website](https://portfolio-master-eder-manuel-fornero.vercel.app/)
 
