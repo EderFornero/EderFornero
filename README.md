@@ -19,7 +19,7 @@ I'm deeply passionate about the world of technology and development, striving to
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
 [![React](https://img.shields.io/badge/React-0f2876?style=flat-square&logo=React&logoColor=white)]
-[![Redux](https://img.shields.io/badge/-Redux-007ACC?style=flat-square&logo=Redux)]
+[![Redux](https://img.shields.io/badge/-Redux-7248b6?style=flat-square&logo=Redux)]
 [![Express](https://img.shields.io/badge/-Express-orange?style=flat-square&logo=Express)]
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)]
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]
