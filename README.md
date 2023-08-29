@@ -26,7 +26,6 @@ I'm deeply passionate about the world of technology and development, striving to
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)]
 
-🚀
 
 🔧 Tools: I'm experienced with Git for version control and team collaboration, as well as agile methodologies that facilitate efficient project delivery. I also use more agile package managers such as pnpm. 
 
