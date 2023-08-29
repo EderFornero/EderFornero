@@ -33,6 +33,7 @@ I'm deeply passionate about the world of technology and development, striving to
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/-ConventionalCommits-181717?style=flat-square&logo=conventionalcommits)]
 
 **I'm always open to collaboration opportunities and mutual learning. Whether you have an exciting project in mind or just want to connect, feel free to get in touch!**
 
