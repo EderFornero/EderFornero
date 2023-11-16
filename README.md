@@ -1,4 +1,4 @@
-# Hello 👋, I'm Eder 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Eder)](https://git.io/typing-svg) 
 
 ## I'm currently FullStack Developer although FrontEnd development has always conquered me.  
 <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" />
