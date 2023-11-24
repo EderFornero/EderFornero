@@ -37,6 +37,8 @@ I'm deeply passionate about the world of technology and development, striving to
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)]
 [![Conventional Commits](https://img.shields.io/badge/-ConventionalCommits-fa6673?style=flat-square&logo=conventionalcommits&logoColor=white)]
 [![Eslint](https://img.shields.io/badge/-Eslint-f7f7f7?style=flat-square&logo=eslint&logoColor=4930bd)]
+[![IntelliJ](https://img.shields.io/badge/-Eslint-f7f7f7?style=flat-square&logo=eslint&logoColor=4930bd](https://img.shields.io/badge/-intelliJ-f7f7f7?style=flat-square&logo=intellij&logoColor=4930bd))]
+
 
 **I'm always open to collaboration opportunities and mutual learning. Whether you have an exciting project in mind or just want to connect, feel free to get in touch!**
 
