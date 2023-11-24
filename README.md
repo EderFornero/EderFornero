@@ -5,7 +5,7 @@
 
 ### About Me 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderFornero)](https://github.com/EderFornero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderFornero)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm deeply passionate about the world of technology and development, striving to create web applications and solutions that blend functionality with excellent user experience. My approach is rooted in crafting clean, maintainable code that adapts to the ever-changing demands of the digital landscape.
 
