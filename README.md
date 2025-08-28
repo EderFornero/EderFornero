@@ -46,9 +46,10 @@ I'm deeply passionate about the world of technology and development, striving to
 
 📫 ederfornero.ef@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/eder-fornero/)
-🌐 [Personal Website](https://portfolio-master-eder-manuel-fornero.vercel.app/)
+🌐 [Personal Website](https://ederwebsite.com/)
 
 Looking forward to connecting and collaborating on exciting tech ventures!
+
 
 
 
