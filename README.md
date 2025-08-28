@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderFornero&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderFornero&include_all_commits=true&hide=issues,prs,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EderFornero&include_all_commits=true&show_icons=true)
 
 I'm deeply passionate about the world of technology and development, striving to create web applications and solutions that blend functionality with excellent user experience. My approach is rooted in crafting clean, maintainable code that adapts to the ever-changing demands of the digital landscape.
 
@@ -49,4 +49,5 @@ I'm deeply passionate about the world of technology and development, striving to
 🌐 [Personal Website](https://portfolio-master-eder-manuel-fornero.vercel.app/)
 
 Looking forward to connecting and collaborating on exciting tech ventures!
+
 
